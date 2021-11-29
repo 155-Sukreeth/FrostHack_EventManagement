@@ -1,1 +1,1 @@
-# FrostHack_EventManagement
+# frosthack
